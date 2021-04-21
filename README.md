@@ -19,7 +19,7 @@
 - Each resource must have at least 1 endpoint
 - The following HTTP Verbs must be demonstrated at least once in your project GET, PUT, POST, DELETE.
 - Demonstrate persistence for each resource using EntityFramework or EntityFrameworkCore.
-- Demonstrate appropriate useage of unit tests.
+- Demonstrate appropriate usage of unit tests.
 - Add any explanations, decision processes, or documentation you feel appropriate to the below section of this README.md. 
 - DO NOT include any inappropriate items in your repository such as credentials or artifacts. 
 - DO NOT use any cloud resources that you will have to pay for e.g. Azure SQL, AWS RDS.
